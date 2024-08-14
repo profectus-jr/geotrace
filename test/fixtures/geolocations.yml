@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ip_address: 203.60.21.209
+  url: https://www.google.com
+  geolocation: { "ip": 1.0.0.1 }
+  user: john
+  country: Canada
+  city: Burnaby
+
+two:
+  ip_address: 203.68.21.209
+  url: https://www.google.com
+  geolocation: { "ip": 1.0.0.2 }
+  user: john
+  country: Canada
+  city: Burnaby
