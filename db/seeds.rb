@@ -11,12 +11,12 @@
 trackers = [
   {
     name: "Jane",
-    email: "janen@mail.com",
+    email: "jane@mail.com",
     password: "1q2w3e4r"
   },
   {
     name: "John",
-    email: "johnn@mail.com",
+    email: "john@mail.com",
     password: "1q2w3e4r"
   },
 ]
